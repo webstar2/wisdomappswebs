@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://websstar2.github.io/wisdomappswebs/sitemap.xml
