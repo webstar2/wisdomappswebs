@@ -1,3 +1,25 @@
+# robots.txt for https://wisdomappweb.site
+
+# General rules
 User-agent: *
+Disallow:
 Allow: /
+
+# Google bot
+User-agent: Googlebot
+Disallow:
+Allow: /
+
+# Bing bot
+User-agent: Bingbot
+Disallow:
+Allow: /
+
+# Sitemap
 Sitemap: https://websstar2.github.io/wisdomappswebs/sitemap.xml
+
+
+
+
+
+
